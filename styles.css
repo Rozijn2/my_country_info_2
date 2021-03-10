@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Futura;
+}
+
+#map_of_world {
+    width: 1000px;
+}
+
